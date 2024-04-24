@@ -1,0 +1,2 @@
+1. The bug is that the program recognizes the numbers input by the user as strings instead of numbers. Therefore, when they are added together, the result becomes two strings concatenated to each other.
+2. We can add Number(num1) and Number(num2) to make sure the program recognizes them as numbers when doing the arithmetic operation.
